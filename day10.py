@@ -11,7 +11,7 @@ for x in (4,5,6):
     print(x, end=' ')   #4 5 6
 print()
 for x in {7, 8, 9}:
-    print(x, end=' ')  #7 8 9 order may vary because it won't set is unorder
+    print(x, end=' ')  #7 8 9 order may vary because it won't, set is unorder
 print()
 d = {1:'a', 2:'b', 3:'c'}
 for x in d:
