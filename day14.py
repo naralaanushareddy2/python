@@ -104,7 +104,7 @@
 #     print()
     
 
-
+#pascal triangle
 n=10
 for i in range(n):
     num=1

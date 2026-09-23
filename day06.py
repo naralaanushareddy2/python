@@ -15,11 +15,11 @@ print(l)
 
 # extend() 
 l = ['a', 'b', 'c']
-l.extend(34)
-l.extend(34.3)
-l.extend(4+3j)
-l.extend(True)
-l.extend(None)
+# l.extend(34)
+# l.extend(34.3)
+# l.extend(4+3j)
+# l.extend(True)
+# l.extend(None)
 l.extend([0,1,2])
 l.extend((3,4,5))
 l.extend({6,7,8})
@@ -56,7 +56,7 @@ print(l)
 l = [1, 2, 3, 4]
 a  = l.remove(3)
 print(a, l)
-print(l.remove(5))
+# print(l.remove(5))
 
 # clear()  
 l = [1, 2, 3, 4, 5]
